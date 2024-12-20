@@ -1,7 +1,7 @@
 {
   "name": "starlit-siege-website",
   "version": "0.1.0",
-  "homepage": "http://yourusername.github.io/starlit_siege",
+  "homepage": "http://ak1734yt.github.io/starlit_siege",
   "private": true,
   "dependencies": {
     "cra-template": "1.2.0",
